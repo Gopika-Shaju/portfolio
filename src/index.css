@@ -2,3 +2,8 @@
   magin : 0;
   padding: 0;
 }
+
+::placeholder{
+  color:white;
+  opacity: 0.75;
+}
